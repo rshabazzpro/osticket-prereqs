@@ -8,7 +8,7 @@ This guide provides an overview of the requirements and the process for installi
 
 
 
-<h2>Environments and Technologies Used</h2>
+<h2>Utilized Environments and Technologies</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
